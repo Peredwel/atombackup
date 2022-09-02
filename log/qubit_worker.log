@@ -1,0 +1,2 @@
+Jul 26 12:14:57 symfony [crit] {PropelException} Unable to open PDO connection [wrapped: SQLSTATE[HY000] [2002] No such file or directory]
+Sep 16 13:30:25 symfony [crit] {PropelException} Unable to open PDO connection [wrapped: SQLSTATE[HY000] [2002] No such file or directory]
